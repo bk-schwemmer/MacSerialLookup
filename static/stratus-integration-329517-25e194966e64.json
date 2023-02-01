@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "stratus-integration-329517",
+  "private_key_id": "25e194966e649d0d47ef964aabe4da97b7b61235",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDRkktWD6hxbsaR\nNo3+dJPPJ/W4p/+eTkJSTF6fMaqkTsbK+k5QR69uQR0p7DUsI0k4Mb5bbOhSQ3+o\nAVnBLdgFF6vvDNNxN57JHTlkhVjZ/RxwyDwSyjOinQ8gYIoz0QObZWKWwdhn7R5G\nC2NnqpWzD6VfjpA52AGxKfb2Hg8syYALhm29g3/CMr6ma7PZ+AS0pyC2hvPnkOnS\npOvmCu3HuKDJfn2HgtFuZ0RQLTEgmlbBfAqRJu+LmzcAMxSFhW2hvoOG4LZkVVbq\nQdJ5jLwXGQfmCpi+N854knHlr6QuQ9jRpcw8fPXvtgyjU4nYm32rnDHukFA+UVFh\nWKbjZqhRAgMBAAECggEAAWnzvB8sy++d3gskqKQMaXzPt0TwYubh+F8g0gvWQVz7\n8buACYyomAVZ0H98xsPZ7bZwXiU+jmwGHY89ReyvZk46pBPVmHAMxYxJkmZafdWA\n99iSUa7iK8F0duZPK7fIDELHcuSNx1qMiPd7k86SgMUnsKdpbQ96UvHOrgpFwE/G\n/KPU+m/9hFNdqy/wC3JjbozvsOetp+Ge6z9IOGI5Zo4M1auA2g+o/Mp7PURUqPpu\nuychuzXBPhDk8WZH4SyBe15fWG6qq8hOk3d8w2gdukmkDfE3fSe6u2h92dbRMhbq\nK/Tn0EMgwoOLXF/ieuZMO8QIbxGXcNBM0Ur7Kpw4QQKBgQD7IlSim9jvTObGPY1C\nBHyttHXaKOWKsbUrP9+afPI0uMHIBYyvEOU1AFZ+cov79ak7GRF4fbIk2D4pT0Kk\nb7NEMd+3mSnCwDazBQ8ldZn+txzNC/VhG4p6cijs+tGSBUec5TjI4UdqBGFprOqR\nW91ozeC7jRWf64/OtRCT8yJtQQKBgQDVoc4/HLb6kam49HEGb97svgvc6xfXKSEW\nCq/qAA2kTm3JFu5bK38NkTilTFupfMSGX2K2c4dxlDMVUDbOE9Yyb5SoaMrOkQ/T\nOfjMzQN2/5Yg91V9SRJnZuoZVaSS0sJ/O9YHUv4L/OkKT86Ve8YAd9Ha8kLrPhkw\nNXyzmtinEQKBgHiXXajPyXXvqYlcGS6wVOZcl5LwvHjDKMnh3A+lG/ExHuxbrdiK\n9mVjCiWh/5I3vtHAEeGYCikjJYZUpx2q/Zwrjs/s3l7ESf/g2AsW06G6cDwOGABP\nZ0mw8/IH5waFPoQalg/wDYjdHaHPBLxULpea9OVatB2c0etiitlgkRGBAoGBAJdd\nbQf0rYU+XhYJRGf+LeJqCXe/LwYpQyMd8WSIIyJO26TGVZ5NZFlVkuA0CSI+n/Rh\nc0y48Le9/K/WRO6gyXy06Iymq0PPLnpIMgvSGule0J2NAYqikqKnHalTsCbDpEGI\nQO6xlAUkbm36+/GYYEOGoi9Sxa1uM2SgEToktesxAoGAQQxlGT5GSI2liLTCvSCI\nBXuF8vcKzMnzfHnQl6Kg2285VLi0Rxdvr9v0cQGSxf58ScOP6Bzls71yBEM6mEwj\n8h1WSv4I9yzM/zKSfUWZ9wCf3VYymyyF/9DB8oxENLrUXk7+SBBV4jvq6W4zlCn0\nFrh23SfxdjNccPJZ4IPG6zI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "serial-lookup@stratus-integration-329517.iam.gserviceaccount.com",
+  "client_id": "112523684965552986074",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/serial-lookup%40stratus-integration-329517.iam.gserviceaccount.com"
+}
